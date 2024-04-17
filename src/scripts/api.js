@@ -85,7 +85,7 @@ async function renderChampions() {
       <span class="name">${character.name}</span>
       <span class="role">${character.role}</span>
       <p>
-      ${character.lore}/p>
+      ${character.lore}
       </p>
     </div>
   </div>
